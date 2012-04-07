@@ -63,7 +63,8 @@
 			</div>
 				
 			<div id="resultados2">
-                             
+                            /*solo lo propbe aka para ver k funcionara n en realidad aka no va*/
+                                                         <?php include("forms/upload_imagen_propiedad.php");?>
 			</div>	
                     
 			<div id="paginacion">
